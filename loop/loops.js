@@ -46,11 +46,10 @@ for (let i = 1; i <= 20; i++){
     console.log(`The value of i is ${i}`);
 }
 
-// while loops
 for (let i = 1; i <= 20; i++){
     if (i == 5) {
         console.log(`Detected 5`);
-        continue
+        conti
     }
     console.log(`The value of i is ${i}`);
 }
